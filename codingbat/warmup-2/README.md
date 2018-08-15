@@ -1,8 +1,8 @@
-# Warmup-1
+# Warmup-2
 
-Simple warmup problems.
+Medium warmup string/array loops.
 
-1. [stringTimes](https://github.com/liampuk/code-practice/blob/master/codingbat/warmup-1/stringTimes.md) - _[codingbat](http://codingbat.com/prob/p142270)_
+1. [stringTimes](https://github.com/liampuk/code-practice/blob/master/codingbat/warmup-2/stringTimes.md) - _[codingbat](http://codingbat.com/prob/p142270)_
 2. [frontTimes](https://github.com/liampuk/code-practice/blob/master/codingbat/warmup-2/frontTimes.md) - _[codingbat](http://codingbat.com/prob/p101475)_
 3. [countXX](https://github.com/liampuk/code-practice/blob/master/codingbat/warmup-2/countXX.md) - _[codingbat](http://codingbat.com/prob/p194667)_
 4. [doubleX](https://github.com/liampuk/code-practice/blob/master/codingbat/warmup-2/doubleX.md) - _[codingbat](http://codingbat.com/prob/p186759)_
