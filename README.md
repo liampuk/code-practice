@@ -6,50 +6,50 @@ My solutions to programming practice problems.
 
 Java practice problems
 
-- [Warmup-1](https://github.com/liampuk/code-practice/codingbat/warmup-1) - Simple warmup problems
+- [Warmup-1](https://github.com/liampuk/code-practice/tree/master/codingbat/warmup-1) - Simple warmup problems
 
-- [Warmup-2](https://github.com/liampuk/code-practice/codingbat/warmup-2) - Medium warmup (string/array loops)
-
-***
-
-- [String-1](https://github.com/liampuk/code-practice/codingbat/string-1) - Basic string problems (no loops)
-
-- [String-2](https://github.com/liampuk/code-practice/codingbat/string-2) - Medium String problems (1 loop)
-
-- [String-3](https://github.com/liampuk/code-practice/codingbat/string-3) - Harder String problems (2 loops)
+- [Warmup-2](https://github.com/liampuk/tree/master/code-practice/codingbat/warmup-2) - Medium warmup (string/array loops)
 
 ***
 
-- [Array-1](https://github.com/liampuk/code-practice/codingbat/array-1) - Basic array problems (no loops)
+- [String-1](https://github.com/liampuk/tree/master/code-practice/codingbat/string-1) - Basic string problems (no loops)
 
-- [Array-2](https://github.com/liampuk/code-practice/codingbat/array-2) - Medium array problems (1 loop)
+- [String-2](https://github.com/liampuk/tree/master/code-practice/codingbat/string-2) - Medium String problems (1 loop)
 
-- [Array-3](https://github.com/liampuk/code-practice/codingbat/array-3) - Harder array problems (2 loops, complex logic)
-
-***
-
-- [Logic-1](https://github.com/liampuk/code-practice/codingbat/logic-1) - Basic boolean logic puzzles
-
-- [Logic-2](https://github.com/liampuk/code-practice/codingbat/logic-2) - Medium boolean logic puzzles
+- [String-3](https://github.com/liampuk/tree/master/code-practice/codingbat/string-3) - Harder String problems (2 loops)
 
 ***
 
-- [Recursion-1](https://github.com/liampuk/code-practice/codingbat/recursion-1) - Basic recursion problems
+- [Array-1](https://github.com/liampuk/tree/master/code-practice/codingbat/array-1) - Basic array problems (no loops)
 
-- [Recursion-2](https://github.com/liampuk/code-practice/codingbat/recursion-2) - Harder recursion problems
+- [Array-2](https://github.com/liampuk/tree/master/code-practice/codingbat/array-2) - Medium array problems (1 loop)
 
-***
-
-- [Map-1](https://github.com/liampuk/code-practice/codingbat/map-1) - Basic Map get()/put() (no loops)
-
-- [Map-2](https://github.com/liampuk/code-practice/codingbat/map-2) - Maps with bulk data and loops
+- [Array-3](https://github.com/liampuk/tree/master/code-practice/codingbat/array-3) - Harder array problems (2 loops, complex logic)
 
 ***
 
-- [Functional-1](https://github.com/liampuk/code-practice/codingbat/functional-1) - Functional mapping operations on lists with lambdas
+- [Logic-1](https://github.com/liampuk/tree/master/code-practice/codingbat/logic-1) - Basic boolean logic puzzles
 
-- [Functional-2](https://github.com/liampuk/code-practice/codingbat/functional-2) - Functional filtering and mapping operations on lists with lambdas
+- [Logic-2](https://github.com/liampuk/tree/master/code-practice/codingbat/logic-2) - Medium boolean logic puzzles
 
 ***
 
-- [AP-1](https://github.com/liampuk/code-practice/codingbat/ap-1) - AP CS medium problems
+- [Recursion-1](https://github.com/liampuk/tree/master/code-practice/codingbat/recursion-1) - Basic recursion problems
+
+- [Recursion-2](https://github.com/liampuk/tree/master/code-practice/codingbat/recursion-2) - Harder recursion problems
+
+***
+
+- [Map-1](https://github.com/liampuk/tree/master/code-practice/codingbat/map-1) - Basic Map get()/put() (no loops)
+
+- [Map-2](https://github.com/liampuk/tree/master/code-practice/codingbat/map-2) - Maps with bulk data and loops
+
+***
+
+- [Functional-1](https://github.com/liampuk/tree/master/code-practice/codingbat/functional-1) - Functional mapping operations on lists with lambdas
+
+- [Functional-2](https://github.com/liampuk/tree/master/code-practice/codingbat/functional-2) - Functional filtering and mapping operations on lists with lambdas
+
+***
+
+- [AP-1](https://github.com/liampuk/tree/master/code-practice/codingbat/ap-1) - AP CS medium problems
