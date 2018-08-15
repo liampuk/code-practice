@@ -2,4 +2,4 @@
 
 Simple warmup problems.
 
-1. [sleepIn](https://github.com/liampuk/code-practice/codingbat/warmup-1/sleepIn.md) - _[codingbat](http://codingbat.com/prob/p187868)_
+1. [sleepIn](https://github.com/liampuk/code-practice/blob/master/codingbat/warmup-1/sleepIn.md) - _[codingbat](http://codingbat.com/prob/p187868)_

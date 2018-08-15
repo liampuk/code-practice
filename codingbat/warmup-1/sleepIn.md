@@ -9,7 +9,7 @@ sleepIn(false, true) → true
 
 ```
 
-**Solutoin:**
+**Solution:**
 
 ```java
 public boolean sleepIn(boolean weekday, boolean vacation) {
