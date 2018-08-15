@@ -1,12 +1,10 @@
 # Programming Practice
 
-My solutions to programming practice problems
+My solutions to programming practice problems.
 
 ## CodingBat
 
 Java practice problems
-
-***
 
 - [Warmup-1](https://github.com/liampuk/code-practice/codingbat/warmup-1) - Simple warmup problems
 
