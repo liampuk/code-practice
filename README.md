@@ -8,31 +8,31 @@ Java practice problems
 
 ***
 
-Warmup-1 - Simple warmup problems
+- Warmup-1 - Simple warmup problems
 
-Warmup-2 - Medium warmup (string/array loops)
-
-***
-
-String-1 - Basic string problems (no loops)
-
-String-2 - Medium String problems (1 loop)
-
-String-3 - Harder String problems (2 loops)
+- Warmup-2 - Medium warmup (string/array loops)
 
 ***
 
-Array-1 - Basic array problems (no loops)
+- String-1 - Basic string problems (no loops)
 
-Array-2 - Medium array problems (1 loop)
+- String-2 - Medium String problems (1 loop)
 
-Array-3 - Harder array problems (2 loops, complex logic)
+- String-3 - Harder String problems (2 loops)
 
 ***
 
-Logic-1 - Basic boolean logic puzzles
+1. Array-1 - Basic array problems (no loops)
 
-Logic-2 - Medium boolean logic puzzles
+2. Array-2 - Medium array problems (1 loop)
+
+3. Array-3 - Harder array problems (2 loops, complex logic)
+
+***
+
+1. Logic-1 - Basic boolean logic puzzles
+
+2. Logic-2 - Medium boolean logic puzzles
 
 ***
 
