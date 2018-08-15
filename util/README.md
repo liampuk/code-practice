@@ -1,3 +1,3 @@
 # CodingBat Crawler
 
-generates .md files for each CodingBat topic, and each CodingBat topic.
+generates .md files for each CodingBat topic, and each CodingBat problem.
