@@ -18,5 +18,6 @@ function getContent(){
     var desc = document.getElementsByClassName("max2")[0].innerText
     var exl = document.getElementsByTagName("td")[3].innerHTML.split("<br>")[1]+"\n"+document.getElementsByTagName("td")[3].innerHTML.split("<br>")[2]+"\n"+document.getElementsByTagName("td")[3].innerHTML.split("<br>")[3].split("<p>")[0];
     var code = document.getElementsByClassName("ace_content")[0].innerText;
-    console.log("# "+name+"\n\n"+desc+"\n\n```\n"+exl+"\n```\n\n**Solution:**\n\n```java\n"+code+"```");
+    var link = window.location.href;
+    console.log("# "+name+"\n\n"+desc+"\n\n```\n"+exl+"\n```\n\n**Solution:**\n\n```java\n"+code+"```\n\n> _[codingbat]("+link+")_");
 }
