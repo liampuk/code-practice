@@ -18,3 +18,5 @@ public String frontBack(String str) {
   return str.charAt(str.length()-1)+str.substring(1,str.length()-1)+str.charAt(0);
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p123384)_

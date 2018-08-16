@@ -21,3 +21,5 @@ public boolean stringE(String str) {
   return c >= 1 && c <= 3;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p173784)_

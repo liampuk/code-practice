@@ -15,3 +15,5 @@ public int sumDouble(int a, int b) {
   return a!=b ? a+b : (a+b)*2;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p154485)_

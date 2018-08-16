@@ -19,3 +19,5 @@ public String everyNth(String str, int n) {
   return res;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p196441)_

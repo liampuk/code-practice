@@ -20,3 +20,5 @@ public String delDel(String str) {
   return str;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p100905)_

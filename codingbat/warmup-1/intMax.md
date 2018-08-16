@@ -18,3 +18,5 @@ public int intMax(int a, int b, int c) {
   return b > c ? b : c > a ? c : c;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p101887)_

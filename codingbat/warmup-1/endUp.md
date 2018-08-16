@@ -18,3 +18,5 @@ public String endUp(String str) {
   return str.substring(0, str.length()-3) + str.substring(str.length()-3).toUpperCase();
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p125268)_

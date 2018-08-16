@@ -15,3 +15,5 @@ public String backAround(String str) {
   return str.charAt(str.length()-1)+str+str.charAt(str.length()-1);
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p161642)_

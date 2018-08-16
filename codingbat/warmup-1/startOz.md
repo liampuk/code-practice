@@ -22,3 +22,5 @@ public String startOz(String str) {
   return str2;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p199720)_

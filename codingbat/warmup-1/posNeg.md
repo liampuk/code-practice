@@ -19,3 +19,5 @@ public boolean posNeg(int a, int b, boolean negative) {
   }
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p159227)_

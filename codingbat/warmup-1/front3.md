@@ -17,3 +17,5 @@ public String front3(String str) {
   return str2+str2+str2;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p136351)_

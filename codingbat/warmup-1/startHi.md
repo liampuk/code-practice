@@ -16,3 +16,5 @@ public boolean startHi(String str) {
   return str.length() >= 2 && str.substring(0,2).equals("hi");
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p191022)_

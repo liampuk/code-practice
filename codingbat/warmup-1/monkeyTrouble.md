@@ -16,3 +16,5 @@ public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
   return aSmile == bSmile;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p181646)_

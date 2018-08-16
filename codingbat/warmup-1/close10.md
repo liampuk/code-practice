@@ -20,3 +20,5 @@ public int close10(int a, int b) {
   return a2 < b2 ? a : b;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p172021)_
