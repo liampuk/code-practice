@@ -1,7 +1,7 @@
 # Programming Practice
 
 My solutions to programming practice problems.
-> Note: Most of these solutions were written quickly without throught for readability. (sorry)
+> Note: Most of these solutions were written quickly without thought for readability. (sorry)
 
 ## CodingBat
 
