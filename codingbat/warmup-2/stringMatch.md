@@ -21,3 +21,5 @@ public int stringMatch(String a, String b) {
   return count;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p198640)_

@@ -19,3 +19,5 @@ public String stringTimes(String str, int n) {
   return res;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p142270)_

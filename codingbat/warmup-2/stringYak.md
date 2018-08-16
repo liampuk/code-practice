@@ -23,3 +23,5 @@ public String stringYak(String str) {
   return res;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p126212)_

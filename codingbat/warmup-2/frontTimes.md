@@ -20,3 +20,5 @@ public String frontTimes(String str, int n) {
   return res;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p101475)_

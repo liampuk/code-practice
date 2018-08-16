@@ -23,3 +23,5 @@ public boolean array123(int[] nums) {
   return false;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p136041)_

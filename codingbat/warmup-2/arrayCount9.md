@@ -21,3 +21,5 @@ public int arrayCount9(int[] nums) {
   return count;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p184031)_

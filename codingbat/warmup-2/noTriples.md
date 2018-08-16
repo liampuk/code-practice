@@ -26,3 +26,5 @@ public boolean noTriples(int[] nums) {
   return true;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p170221)_

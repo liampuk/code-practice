@@ -21,3 +21,5 @@ public int array667(int[] nums) {
   return count;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p110019)_

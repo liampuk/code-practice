@@ -22,3 +22,5 @@ public String altPairs(String str) {
   return res;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p121596)_

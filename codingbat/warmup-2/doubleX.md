@@ -24,3 +24,5 @@ boolean doubleX(String str) {
   return false;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p186759)_

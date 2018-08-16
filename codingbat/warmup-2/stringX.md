@@ -21,3 +21,5 @@ public String stringX(String str) {
   return str;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p171260)_

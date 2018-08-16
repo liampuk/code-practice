@@ -23,3 +23,5 @@ public int last2(String str) {
   return count;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p178318)_

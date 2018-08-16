@@ -19,3 +19,5 @@ public String stringSplosion(String str) {
   return res+str;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p117334)_

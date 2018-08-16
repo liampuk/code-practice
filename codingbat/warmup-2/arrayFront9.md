@@ -20,3 +20,5 @@ public boolean arrayFront9(int[] nums) {
   return false;
 }
 ```
+
+> _[codingbat](http://codingbat.com/prob/p186031)_
