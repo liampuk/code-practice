@@ -15,7 +15,7 @@ Java practice problems
 
 - [String-1](https://github.com/liampuk/code-practice/tree/master/codingbat/string-1) - Basic string problems (no loops)
 
-- [String-2](https://github.com/liampuk/code-practice/tree/master/codingbat/string-2) - Medium String problems (1 loop) _*unfinished_
+- [String-2](https://github.com/liampuk/code-practice/tree/master/codingbat/string-2) - Medium String problems (1 loop)
 
 - [String-3](https://github.com/liampuk/code-practice/tree/master/codingbat/string-3) - Harder String problems (2 loops) _*unfinished_
 
