@@ -5,7 +5,7 @@ My solutions to programming practice problems.
 
 ## CodingBat
 
-Java practice problems
+### **Java practice problems**
 
 ***
 
@@ -20,7 +20,7 @@ Java practice problems
 ***
 
 <details>
-<summary>String</summary>
+<summary>String Exercises</summary>
 
 - [String-1](https://github.com/liampuk/code-practice/tree/master/codingbat/string-1) - Basic string problems (no loops)
 
