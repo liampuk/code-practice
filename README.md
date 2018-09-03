@@ -38,7 +38,7 @@ My solutions to programming practice problems.
 
 - [Array-2](https://github.com/liampuk/code-practice/tree/master/codingbat/array-2) - Medium array problems (1 loop)
 
-- [Array-3](https://github.com/liampuk/code-practice/tree/master/codingbat/array-3) - Harder array problems (2 loops, complex logic) *unfinished
+- [Array-3](https://github.com/liampuk/code-practice/tree/master/codingbat/array-3) - Harder array problems (2 loops, complex logic)
 </details>
 
 ***
