@@ -86,7 +86,7 @@ My solutions to programming practice problems.
 <details>
 <summary>AP Exercises</summary>
 
-- [AP-1](https://github.com/liampuk/code-practice/tree/master/codingbat/ap-1) - AP CS medium problems _*unfinished_
+- [AP-1](https://github.com/liampuk/code-practice/tree/master/codingbat/ap-1) - AP CS medium problems
 </details>
 
 ***
