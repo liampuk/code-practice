@@ -66,7 +66,7 @@ My solutions to programming practice problems.
 <details>
 <summary>Map Exercises</summary>
 
-- [Map-1](https://github.com/liampuk/code-practice/tree/master/codingbat/map-1) - Basic Map get()/put() (no loops) _*unfinished_
+- [Map-1](https://github.com/liampuk/code-practice/tree/master/codingbat/map-1) - Basic Map get()/put() (no loops)
 
 - [Map-2](https://github.com/liampuk/code-practice/tree/master/codingbat/map-2) - Maps with bulk data and loops _*unfinished_
 </details>
