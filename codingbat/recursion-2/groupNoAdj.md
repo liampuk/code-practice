@@ -19,3 +19,5 @@ public boolean groupNoAdj(int start, int[] nums, int target) {
   return groupNoAdj(start+1, nums, target);
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p169605)_

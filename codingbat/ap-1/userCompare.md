@@ -25,3 +25,5 @@ public int userCompare(String aName, int aId, String bName, int bId) {
   return 0;
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p143482)_

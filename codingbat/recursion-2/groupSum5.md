@@ -25,3 +25,5 @@ public boolean groupSum5(int start, int[] nums, int target) {
   return groupSum5(start+1, nums, target);
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p138907)_

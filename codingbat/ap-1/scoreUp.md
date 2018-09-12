@@ -23,3 +23,5 @@ public int scoreUp(String[] key, String[] answers) {
   return mark;
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p180365)_

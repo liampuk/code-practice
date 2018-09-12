@@ -19,3 +19,5 @@ public int bigHeights(int[] heights, int start, int end) {
   return steps;
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p197710)_

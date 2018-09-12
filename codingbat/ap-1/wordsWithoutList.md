@@ -21,3 +21,5 @@ public List wordsWithoutList(String[] words, int len) {
   return list;
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p183407)_

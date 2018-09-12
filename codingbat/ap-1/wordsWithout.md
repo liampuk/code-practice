@@ -19,3 +19,5 @@ public String[] wordsWithout(String[] words, String target) {
   return arrBuilder.substring(1).split(",");
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p121236)_

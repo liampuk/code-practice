@@ -19,3 +19,5 @@ public int wordsCount(String[] words, int len) {
   return count;
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p124620)_

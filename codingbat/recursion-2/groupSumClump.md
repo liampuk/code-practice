@@ -28,3 +28,5 @@ public boolean groupSumClump(int start, int[] nums, int target) {
   return groupSumClump(start+1, nums, target-nums[start]);
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p105136)_

@@ -22,3 +22,5 @@ public boolean sum(int start, int[] nums, int group1, int group2) {
   return sum(start+1, nums, group1, group2+nums[start]);
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p185204)_

@@ -28,3 +28,5 @@ public int commonTwo(String[] a, String[] b) {
   return count;
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p100369)_

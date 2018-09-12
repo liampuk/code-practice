@@ -26,3 +26,5 @@ public boolean isEndy(int n){
   return (n >= 0 && n <= 10) || (n >= 90 && n <= 100);
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p130124)_

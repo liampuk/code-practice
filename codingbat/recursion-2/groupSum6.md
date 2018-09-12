@@ -23,3 +23,5 @@ public boolean groupSum6(int start, int[] nums, int target) {
   }
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p199368)_

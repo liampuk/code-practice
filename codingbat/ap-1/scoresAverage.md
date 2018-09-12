@@ -25,3 +25,5 @@ public int average(int[] scores, int start, int end) {
   return avg/(end-start);
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p123837)_

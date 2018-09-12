@@ -38,3 +38,5 @@ public String[] mergeTwo(String[] a, String[] b, int n) {
   return arr;
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p139150)_

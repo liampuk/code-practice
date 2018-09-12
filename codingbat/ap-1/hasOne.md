@@ -16,3 +16,5 @@ public boolean hasOne(int n) {
   return n%10 == 1 ? true : hasOne(n/10);
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p191212)_

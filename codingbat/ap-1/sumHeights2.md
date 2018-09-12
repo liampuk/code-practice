@@ -22,3 +22,5 @@ public int sumHeights2(int[] heights, int start, int end) {
   return change;
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p157900)_

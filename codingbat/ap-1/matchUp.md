@@ -21,3 +21,5 @@ public int matchUp(String[] a, String[] b) {
   return count;
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p139677)_

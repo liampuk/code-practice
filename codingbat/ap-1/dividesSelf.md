@@ -22,3 +22,5 @@ public boolean dividesSelf(int n) {
   return true;
 }
 ```
+
+> _[codingbat](https://codingbat.com/prob/p165941)_
