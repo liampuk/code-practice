@@ -58,7 +58,7 @@ My solutions to programming practice problems.
 
 - [Recursion-1](https://github.com/liampuk/code-practice/tree/master/codingbat/recursion-1) - Basic recursion problems
 
-- [Recursion-2](https://github.com/liampuk/code-practice/tree/master/codingbat/recursion-2) - Harder recursion problems _*unfinished_
+- [Recursion-2](https://github.com/liampuk/code-practice/tree/master/codingbat/recursion-2) - Harder recursion problems
 </details>
 
 ***
