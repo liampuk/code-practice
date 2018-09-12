@@ -68,7 +68,7 @@ My solutions to programming practice problems.
 
 - [Map-1](https://github.com/liampuk/code-practice/tree/master/codingbat/map-1) - Basic Map get()/put() (no loops)
 
-- [Map-2](https://github.com/liampuk/code-practice/tree/master/codingbat/map-2) - Maps with bulk data and loops _*unfinished_
+- [Map-2](https://github.com/liampuk/code-practice/tree/master/codingbat/map-2) - Maps with bulk data and loops
 </details>
 
 ***
@@ -76,9 +76,9 @@ My solutions to programming practice problems.
 <details>
 <summary>Functional Exercises</summary>
 
-- [Functional-1](https://github.com/liampuk/code-practice/tree/master/codingbat/functional-1) - Functional mapping operations on lists with lambdas _*unfinished_
+- [Functional-1](https://github.com/liampuk/code-practice/tree/master/codingbat/functional-1) - Functional mapping operations on lists with lambdas
 
-- [Functional-2](https://github.com/liampuk/code-practice/tree/master/codingbat/functional-2) - Functional filtering and mapping operations on lists with lambdas _*unfinished_
+- [Functional-2](https://github.com/liampuk/code-practice/tree/master/codingbat/functional-2) - Functional filtering and mapping operations on lists with lambdas
 </details>
 
 ***
