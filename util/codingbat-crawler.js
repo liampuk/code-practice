@@ -9,7 +9,7 @@ function getNames(){
         }else{
             smallOut = str.substring(1);
         }
-        console.log(i-2 + ". ["+smallOut+"](https://github.com/liampuk/code-practice/blob/master/codingbat/"+name+"/"+smallOut+".md) - _[codingbat]("+ tds[i].getElementsByTagName("a")[0].href +")_");
+        console.log(i-2 + ". ["+smallOut+"](https://github.com/liampuk/code-practice/blob/master/codingbat/java/"+name+"/"+smallOut+".md) - _[codingbat]("+ tds[i].getElementsByTagName("a")[0].href +")_");
     }
 }
 
