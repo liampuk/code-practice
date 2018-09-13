@@ -1,5 +1,6 @@
 function getNames(){
     var tds = document.getElementsByTagName("td");
+    var toLog = "";
     for(var i=3; i<tds.length; i++){
         var name = "warmup-1"
         var str = tds[i].innerText;
@@ -9,8 +10,9 @@ function getNames(){
         }else{
             smallOut = str.substring(1);
         }
-        console.log(i-2 + ". ["+smallOut+"](https://github.com/liampuk/code-practice/blob/master/codingbat/java/"+name+"/"+smallOut+".md) - _[codingbat]("+ tds[i].getElementsByTagName("a")[0].href +")_");
+        toLog += i-2 + ". ["+smallOut+"](https://github.com/liampuk/code-practice/blob/master/codingbat/python/"+name+"/"+smallOut+".md) - _[codingbat]("+ tds[i].getElementsByTagName("a")[0].href +")_\n"
     }
+    console.log(toLog);
 }
 
 function getContent(){

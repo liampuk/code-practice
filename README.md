@@ -5,16 +5,23 @@ My solutions to programming practice problems.
 
 ## CodingBat
 
-### **Java practice problems**
-
 ***
 
 <details>
 <summary>Warmup Exercises</summary>
 
+#### java
+
 - [Warmup-1](https://github.com/liampuk/code-practice/tree/master/codingbat/java/warmup-1) - Simple warmup problems
 
 - [Warmup-2](https://github.com/liampuk/code-practice/tree/master/codingbat/java/warmup-2) - Medium warmup (string/array loops)
+
+#### python
+
+- [Warmup-1](https://github.com/liampuk/code-practice/tree/master/codingbat/python/warmup-1) - Simple warmup problems (no loops)
+
+- [Warmup-2](https://github.com/liampuk/code-practice/tree/master/codingbat/python/warmup-2) - Medium warmup (string/list loops)
+
 </details>
 
 ***
