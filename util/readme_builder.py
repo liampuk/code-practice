@@ -49,7 +49,7 @@ for section in javaSections:
 
     if section in pythonSections:
         sectText += '\n#### python\n\n'
-        fileNames = os.listdir('codingbat/java/md/'+section)
+        fileNames = os.listdir('codingbat/python/md/'+section)
         for fileName in fileNames:
             sectText += '- ['+fileName+'](/codingbat/python/md/'+section+'/'+fileName+')\n'
 
