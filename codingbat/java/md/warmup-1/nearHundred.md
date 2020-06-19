@@ -18,4 +18,4 @@ public boolean nearHundred(int n) {
 
 > _[codingbat](http://codingbat.com/prob/p184004)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

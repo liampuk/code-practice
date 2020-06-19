@@ -20,7 +20,7 @@ os.chdir('..')
 #             srcF.write(mdFile.split('```java')[1].split('```')[0][1:])
 #             srcF.close()
 #             mdF = open('codingbat/java/md/'+section+'/'+mdFileName, 'w')
-#             mdF.write(mdFile+'\n\n> [< _back to readme_](FINDREPLACEREADME)')
+#             mdF.write(mdFile+'\n\n> [< _back to readme_](/README.md)')
 #             mdF.close()
 #             print('written '+mdFileName)
 
@@ -41,7 +41,7 @@ for section in pythonSections:
             srcF.write(mdFile.split('```python')[1].split('```')[0][1:])
             srcF.close()
             mdF = open('codingbat/python/md/'+section+'/'+mdFileName, 'w')
-            mdF.write(mdFile+'\n\n> [< _back to readme_](FINDREPLACEREADME)')
+            mdF.write(mdFile+'\n\n> [< _back to readme_](/README.md)')
             mdF.close()
             print('written '+mdFileName)
 

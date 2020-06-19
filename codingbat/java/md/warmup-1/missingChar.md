@@ -18,4 +18,4 @@ public String missingChar(String str, int n) {
 
 > _[codingbat](http://codingbat.com/prob/p190570)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -19,4 +19,4 @@ public boolean hasOne(int n) {
 
 > _[codingbat](https://codingbat.com/prob/p191212)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

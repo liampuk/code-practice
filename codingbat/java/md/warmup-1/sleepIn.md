@@ -19,4 +19,4 @@ public boolean sleepIn(boolean weekday, boolean vacation) {
 
 > _[codingbat](http://codingbat.com/prob/p187868)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

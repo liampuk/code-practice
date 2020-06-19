@@ -20,4 +20,4 @@ public boolean hasTeen(int a, int b, int c) {
 
 > _[codingbat](http://codingbat.com/prob/p178986)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

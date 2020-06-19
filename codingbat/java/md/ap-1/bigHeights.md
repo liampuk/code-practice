@@ -22,4 +22,4 @@ public int bigHeights(int[] heights, int start, int end) {
 
 > _[codingbat](https://codingbat.com/prob/p197710)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

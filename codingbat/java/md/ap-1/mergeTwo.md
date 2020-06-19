@@ -41,4 +41,4 @@ public String[] mergeTwo(String[] a, String[] b, int n) {
 
 > _[codingbat](https://codingbat.com/prob/p139150)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

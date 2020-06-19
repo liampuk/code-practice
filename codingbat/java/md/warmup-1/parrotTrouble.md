@@ -18,4 +18,4 @@ public boolean parrotTrouble(boolean talking, int hour) {
 
 > _[codingbat](http://codingbat.com/prob/p140449)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

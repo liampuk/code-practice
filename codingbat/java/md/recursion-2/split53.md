@@ -31,4 +31,4 @@ public boolean split53Helper(int start, int[] nums, int group1, int group2){
 
 > _[codingbat](https://codingbat.com/prob/p168295)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

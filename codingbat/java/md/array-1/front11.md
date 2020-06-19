@@ -27,4 +27,4 @@ public int[] front11(int[] a, int[] b) {
 
 > _[codingbat](http://codingbat.com/prob/p128270)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

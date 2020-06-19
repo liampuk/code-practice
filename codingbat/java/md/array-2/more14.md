@@ -27,4 +27,4 @@ public boolean more14(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p104627)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

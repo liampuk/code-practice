@@ -29,4 +29,4 @@ public int sum67(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p111327)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

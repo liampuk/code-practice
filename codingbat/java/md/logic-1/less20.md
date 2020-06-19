@@ -18,4 +18,4 @@ public boolean less20(int n) {
 
 > _[codingbat](http://codingbat.com/prob/p133158)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

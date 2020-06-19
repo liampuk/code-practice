@@ -29,4 +29,4 @@ public int sumNumbers(String str) {
 
 > _[codingbat](https://codingbat.com/prob/p121193)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

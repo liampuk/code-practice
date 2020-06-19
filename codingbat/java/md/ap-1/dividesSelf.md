@@ -25,4 +25,4 @@ public boolean dividesSelf(int n) {
 
 > _[codingbat](https://codingbat.com/prob/p165941)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -18,4 +18,4 @@ public boolean squirrelPlay(int temp, boolean isSummer) {
 
 > _[codingbat](http://codingbat.com/prob/p141061)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

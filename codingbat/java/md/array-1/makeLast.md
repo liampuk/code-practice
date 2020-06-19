@@ -20,4 +20,4 @@ public int[] makeLast(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p137188)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

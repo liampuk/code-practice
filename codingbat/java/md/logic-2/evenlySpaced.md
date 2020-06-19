@@ -18,4 +18,4 @@ public boolean evenlySpaced(int a, int b, int c) {
 
 > _[codingbat](http://codingbat.com/prob/p198700)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

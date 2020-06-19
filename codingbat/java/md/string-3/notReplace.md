@@ -30,4 +30,4 @@ public String fix(String str, int i){
 
 > _[codingbat](https://codingbat.com/prob/p154137)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

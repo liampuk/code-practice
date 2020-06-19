@@ -18,4 +18,4 @@ public String backAround(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p161642)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

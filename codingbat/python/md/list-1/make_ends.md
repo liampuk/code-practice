@@ -17,4 +17,4 @@ def make_ends(nums):
 
 > _[codingbat](https://codingbat.com/prob/p124806)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

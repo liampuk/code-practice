@@ -19,4 +19,4 @@ public List<String> copies3(List<String> strings) {
 
 > _[codingbat](https://codingbat.com/prob/p181634)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -31,4 +31,4 @@ public String[] firstSwap(String[] strings) {
 
 > _[codingbat](https://codingbat.com/prob/p150113)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

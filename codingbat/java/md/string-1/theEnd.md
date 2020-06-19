@@ -18,4 +18,4 @@ public String theEnd(String str, boolean front) {
 
 > _[codingbat](http://codingbat.com/prob/p162477)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

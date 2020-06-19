@@ -18,4 +18,4 @@ public String nTwice(String str, int n) {
 
 > _[codingbat](http://codingbat.com/prob/p174148)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

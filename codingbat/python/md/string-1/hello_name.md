@@ -17,4 +17,4 @@ def hello_name(name):
 
 > _[codingbat](https://codingbat.com/prob/p115413)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

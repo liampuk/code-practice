@@ -17,4 +17,4 @@ def makes10(a, b):
 
 > _[codingbat](https://codingbat.com/prob/p124984)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

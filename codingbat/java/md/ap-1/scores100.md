@@ -23,4 +23,4 @@ public boolean scores100(int[] scores) {
 
 > _[codingbat](https://codingbat.com/prob/p179487)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

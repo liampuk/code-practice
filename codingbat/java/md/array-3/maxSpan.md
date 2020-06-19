@@ -34,4 +34,4 @@ public int maxSpan(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p189576)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

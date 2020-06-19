@@ -22,4 +22,4 @@ public Map<String, String> pairs(String[] strings) {
 
 > _[codingbat](https://codingbat.com/prob/p126332)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

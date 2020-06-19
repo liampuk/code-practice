@@ -18,4 +18,4 @@ public boolean twoAsOne(int a, int b, int c) {
 
 > _[codingbat](http://codingbat.com/prob/p113261)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

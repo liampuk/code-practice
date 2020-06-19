@@ -23,4 +23,4 @@ public boolean scoresClump(int[] scores) {
 
 > _[codingbat](https://codingbat.com/prob/p194530)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

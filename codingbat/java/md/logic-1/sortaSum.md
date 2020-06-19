@@ -18,4 +18,4 @@ public int sortaSum(int a, int b) {
 
 > _[codingbat](http://codingbat.com/prob/p183071)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

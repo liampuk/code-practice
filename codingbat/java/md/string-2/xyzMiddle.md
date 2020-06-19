@@ -26,4 +26,4 @@ public boolean xyzMiddle(String str) {
 
 > _[codingbat](https://codingbat.com/prob/p159772)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

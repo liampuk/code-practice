@@ -18,4 +18,4 @@ public boolean cigarParty(int cigars, boolean isWeekend) {
 
 > _[codingbat](http://codingbat.com/prob/p159531)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

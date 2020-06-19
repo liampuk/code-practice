@@ -22,4 +22,4 @@ def string_times(str, n):
 
 > _[codingbat](https://codingbat.com/prob/p193507)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

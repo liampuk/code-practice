@@ -22,4 +22,4 @@ def array123(nums):
 
 > _[codingbat](https://codingbat.com/prob/p193604)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

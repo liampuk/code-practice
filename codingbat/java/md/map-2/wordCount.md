@@ -26,4 +26,4 @@ public Map<String, Integer> wordCount(String[] strings) {
 
 > _[codingbat](https://codingbat.com/prob/p117630)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

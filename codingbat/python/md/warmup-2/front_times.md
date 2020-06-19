@@ -22,4 +22,4 @@ def front_times(str, n):
 
 > _[codingbat](https://codingbat.com/prob/p165097)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -18,4 +18,4 @@ public String right2(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p130781)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

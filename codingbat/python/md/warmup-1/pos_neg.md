@@ -17,4 +17,4 @@ def pos_neg(a, b, negative):
 
 > _[codingbat](https://codingbat.com/prob/p162058)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

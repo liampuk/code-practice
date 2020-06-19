@@ -21,4 +21,4 @@ public boolean hasBad(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p139075)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

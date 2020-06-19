@@ -19,4 +19,4 @@ public List<Integer> no9(List<Integer> nums) {
 
 > _[codingbat](https://codingbat.com/prob/p124510)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

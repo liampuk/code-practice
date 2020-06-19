@@ -18,4 +18,4 @@ public String helloName(String name) {
 
 > _[codingbat](http://codingbat.com/prob/p171896)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

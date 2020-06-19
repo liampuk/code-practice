@@ -17,4 +17,4 @@ def middle_way(a, b):
 
 > _[codingbat](https://codingbat.com/prob/p171011)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

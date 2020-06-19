@@ -18,4 +18,4 @@ public boolean inOrderEqual(int a, int b, int c, boolean equalOk) {
 
 > _[codingbat](http://codingbat.com/prob/p140272)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

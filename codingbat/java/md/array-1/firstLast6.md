@@ -18,4 +18,4 @@ public boolean firstLast6(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p185685)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -18,4 +18,4 @@ public int factorial(int n) {
 
 > _[codingbat](https://codingbat.com/prob/p154669)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

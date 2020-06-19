@@ -18,4 +18,4 @@ public int sumDouble(int a, int b) {
 
 > _[codingbat](http://codingbat.com/prob/p154485)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

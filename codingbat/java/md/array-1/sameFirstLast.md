@@ -21,4 +21,4 @@ public boolean sameFirstLast(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p118976)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

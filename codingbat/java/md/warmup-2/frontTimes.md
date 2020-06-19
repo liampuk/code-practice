@@ -23,4 +23,4 @@ public String frontTimes(String str, int n) {
 
 > _[codingbat](http://codingbat.com/prob/p101475)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

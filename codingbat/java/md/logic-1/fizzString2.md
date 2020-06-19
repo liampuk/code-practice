@@ -28,4 +28,4 @@ public String fizzString2(int n) {
 
 > _[codingbat](http://codingbat.com/prob/p115243)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

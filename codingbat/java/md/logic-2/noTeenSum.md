@@ -21,4 +21,4 @@ public int fixTeen(int n){
 
 > _[codingbat](http://codingbat.com/prob/p182879)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

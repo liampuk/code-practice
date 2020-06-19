@@ -25,4 +25,4 @@ public boolean splitOdd10Helper(int start, int[] nums, int group1, int group2){
 
 > _[codingbat](https://codingbat.com/prob/p171660)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

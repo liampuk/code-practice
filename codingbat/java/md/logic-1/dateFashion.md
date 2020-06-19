@@ -24,4 +24,4 @@ public int dateFashion(int you, int date) {
 
 > _[codingbat](http://codingbat.com/prob/p103360)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

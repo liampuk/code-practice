@@ -23,4 +23,4 @@ public boolean arrayFront9(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p186031)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

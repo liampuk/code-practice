@@ -17,4 +17,4 @@ def common_end(a, b):
 
 > _[codingbat](https://codingbat.com/prob/p147755)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

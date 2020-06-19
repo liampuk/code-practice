@@ -20,4 +20,4 @@ public List<Integer> square56(List<Integer> nums) {
 
 > _[codingbat](https://codingbat.com/prob/p132748)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

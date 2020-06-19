@@ -18,4 +18,4 @@ public boolean in1To10(int n, boolean outsideMode) {
 
 > _[codingbat](http://codingbat.com/prob/p137365)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

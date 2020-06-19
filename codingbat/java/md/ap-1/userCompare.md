@@ -28,4 +28,4 @@ public int userCompare(String aName, int aId, String bName, int bId) {
 
 > _[codingbat](https://codingbat.com/prob/p143482)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

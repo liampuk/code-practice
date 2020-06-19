@@ -22,4 +22,4 @@ public String[] wordsFront(String[] words, int n) {
 
 > _[codingbat](https://codingbat.com/prob/p183837)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

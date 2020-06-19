@@ -18,4 +18,4 @@ public String comboString(String a, String b) {
 
 > _[codingbat](http://codingbat.com/prob/p168564)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

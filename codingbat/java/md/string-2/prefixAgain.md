@@ -23,4 +23,4 @@ public boolean prefixAgain(String str, int n) {
 
 > _[codingbat](https://codingbat.com/prob/p136417)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

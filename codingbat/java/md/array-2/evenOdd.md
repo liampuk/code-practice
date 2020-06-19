@@ -31,4 +31,4 @@ public int[] evenOdd(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p105771)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

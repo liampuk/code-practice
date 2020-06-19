@@ -18,4 +18,4 @@ public String middleTwo(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p137729)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

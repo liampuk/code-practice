@@ -22,4 +22,4 @@ public int[] fizzArray3(int start, int end) {
 
 > _[codingbat](https://codingbat.com/prob/p142539)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

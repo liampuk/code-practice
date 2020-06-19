@@ -18,4 +18,4 @@ public String makeTags(String tag, String word) {
 
 > _[codingbat](http://codingbat.com/prob/p147483)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -23,4 +23,4 @@ public int sum2(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p190968)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

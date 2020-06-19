@@ -17,4 +17,4 @@ def front_back(str):
 
 > _[codingbat](https://codingbat.com/prob/p153599)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -26,4 +26,4 @@ public boolean array123(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p136041)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

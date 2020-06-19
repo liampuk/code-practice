@@ -23,4 +23,4 @@ public boolean strCopies(String str, String sub, int n) {
 
 > _[codingbat](https://codingbat.com/prob/p118182)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

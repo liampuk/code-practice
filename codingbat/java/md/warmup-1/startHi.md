@@ -19,4 +19,4 @@ public boolean startHi(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p191022)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

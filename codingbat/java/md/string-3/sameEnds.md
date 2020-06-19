@@ -24,4 +24,4 @@ public String sameEnds(String string) {
 
 > _[codingbat](https://codingbat.com/prob/p131516)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

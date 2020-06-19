@@ -30,4 +30,4 @@ public boolean twoTwo(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p102145)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

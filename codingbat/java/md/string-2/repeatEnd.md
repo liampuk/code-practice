@@ -22,4 +22,4 @@ public String repeatEnd(String str, int n) {
 
 > _[codingbat](https://codingbat.com/prob/p152339)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

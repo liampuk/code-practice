@@ -24,4 +24,4 @@ public int countHi(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p147448)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

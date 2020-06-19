@@ -21,4 +21,4 @@ def date_fashion(you, date):
 
 > _[codingbat](https://codingbat.com/prob/p129125)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

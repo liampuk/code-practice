@@ -21,4 +21,4 @@ public boolean unlucky1(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p197308)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

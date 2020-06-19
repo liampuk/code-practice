@@ -19,4 +19,4 @@ public boolean loneTeen(int a, int b) {
 
 > _[codingbat](http://codingbat.com/prob/p165701)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

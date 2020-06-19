@@ -17,4 +17,4 @@ def monkey_trouble(a_smile, b_smile):
 
 > _[codingbat](https://codingbat.com/prob/p120546)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

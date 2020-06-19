@@ -18,4 +18,4 @@ public int redTicket(int a, int b, int c) {
 
 > _[codingbat](http://codingbat.com/prob/p170833)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -26,4 +26,4 @@ public boolean groupSum6(int start, int[] nums, int target) {
 
 > _[codingbat](https://codingbat.com/prob/p199368)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -18,4 +18,4 @@ public int sumDigits(int n) {
 
 > _[codingbat](https://codingbat.com/prob/p163932)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -20,4 +20,4 @@ public List<Integer> two2(List<Integer> nums) {
 
 > _[codingbat](https://codingbat.com/prob/p148198)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

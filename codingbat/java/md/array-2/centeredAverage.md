@@ -26,4 +26,4 @@ public int centeredAverage(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p136585)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

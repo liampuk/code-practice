@@ -17,4 +17,4 @@ def not_string(str):
 
 > _[codingbat](https://codingbat.com/prob/p189441)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

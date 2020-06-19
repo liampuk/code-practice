@@ -24,4 +24,4 @@ public int array667(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p110019)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

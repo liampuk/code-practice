@@ -19,4 +19,4 @@ public List<String> noLong(List<String> strings) {
 
 > _[codingbat](https://codingbat.com/prob/p194496)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

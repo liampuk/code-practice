@@ -22,4 +22,4 @@ public int strCount(String str, String sub) {
 
 > _[codingbat](https://codingbat.com/prob/p186177)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

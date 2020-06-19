@@ -17,4 +17,4 @@ def sum_double(a, b):
 
 > _[codingbat](https://codingbat.com/prob/p141905)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

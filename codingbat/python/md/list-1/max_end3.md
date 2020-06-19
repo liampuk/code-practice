@@ -19,4 +19,4 @@ def max_end3(nums):
 
 > _[codingbat](https://codingbat.com/prob/p135290)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

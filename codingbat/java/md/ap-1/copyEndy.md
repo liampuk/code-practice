@@ -29,4 +29,4 @@ public boolean isEndy(int n){
 
 > _[codingbat](https://codingbat.com/prob/p130124)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

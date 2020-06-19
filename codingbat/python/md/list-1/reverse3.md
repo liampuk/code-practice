@@ -17,4 +17,4 @@ def reverse3(nums):
 
 > _[codingbat](https://codingbat.com/prob/p192962)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

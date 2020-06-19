@@ -26,4 +26,4 @@ public int last2(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p178318)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

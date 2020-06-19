@@ -18,4 +18,4 @@ public boolean makes10(int a, int b) {
 
 > _[codingbat](http://codingbat.com/prob/p182873)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

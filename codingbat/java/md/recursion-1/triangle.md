@@ -18,4 +18,4 @@ public int triangle(int rows) {
 
 > _[codingbat](https://codingbat.com/prob/p194781)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

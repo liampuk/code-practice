@@ -26,4 +26,4 @@ def centered_average(nums):
 
 > _[codingbat](https://codingbat.com/prob/p126968)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

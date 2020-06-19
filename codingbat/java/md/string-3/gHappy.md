@@ -32,4 +32,4 @@ public boolean gHappy(String str) {
 
 > _[codingbat](https://codingbat.com/prob/p198664)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -18,4 +18,4 @@ public boolean mixStart(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p151713)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

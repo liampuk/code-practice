@@ -18,4 +18,4 @@ public int maxMod5(int a, int b) {
 
 > _[codingbat](http://codingbat.com/prob/p115384)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

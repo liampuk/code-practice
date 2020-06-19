@@ -18,4 +18,4 @@ public boolean icyHot(int temp1, int temp2) {
 
 > _[codingbat](http://codingbat.com/prob/p192082)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

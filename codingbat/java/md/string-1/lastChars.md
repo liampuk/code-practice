@@ -24,4 +24,4 @@ public String lastChars(String a, String b) {
 
 > _[codingbat](http://codingbat.com/prob/p138183)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

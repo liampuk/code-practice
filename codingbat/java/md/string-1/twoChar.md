@@ -18,4 +18,4 @@ public String twoChar(String str, int index) {
 
 > _[codingbat](http://codingbat.com/prob/p144623)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -22,4 +22,4 @@ public int sumHeights(int[] heights, int start, int end) {
 
 > _[codingbat](https://codingbat.com/prob/p148138)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

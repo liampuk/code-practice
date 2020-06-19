@@ -18,4 +18,4 @@ public boolean old35(int n) {
 
 > _[codingbat](http://codingbat.com/prob/p159612)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

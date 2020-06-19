@@ -26,4 +26,4 @@ public int scoreUp(String[] key, String[] answers) {
 
 > _[codingbat](https://codingbat.com/prob/p180365)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

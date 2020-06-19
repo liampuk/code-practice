@@ -18,4 +18,4 @@ public boolean love6(int a, int b) {
 
 > _[codingbat](http://codingbat.com/prob/p137742)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

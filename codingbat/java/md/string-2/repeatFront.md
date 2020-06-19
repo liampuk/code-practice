@@ -23,4 +23,4 @@ public String repeatFront(String str, int n) {
 
 > _[codingbat](https://codingbat.com/prob/p128796)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

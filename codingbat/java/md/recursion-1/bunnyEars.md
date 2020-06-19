@@ -18,4 +18,4 @@ public int bunnyEars(int bunnies) {
 
 > _[codingbat](https://codingbat.com/prob/p183649)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -34,4 +34,4 @@ public int loneSum(int a, int b, int c) {
 
 > _[codingbat](http://codingbat.com/prob/p148972)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

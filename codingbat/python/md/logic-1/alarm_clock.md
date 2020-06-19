@@ -23,4 +23,4 @@ def alarm_clock(day, vacation):
 
 > _[codingbat](https://codingbat.com/prob/p119867)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -22,4 +22,4 @@ public Map<String, Integer> wordLen(String[] strings) {
 
 > _[codingbat](https://codingbat.com/prob/p125327)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

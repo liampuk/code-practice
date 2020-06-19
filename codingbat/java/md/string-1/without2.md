@@ -23,4 +23,4 @@ public String without2(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p142247)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

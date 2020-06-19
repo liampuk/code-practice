@@ -28,4 +28,4 @@ public boolean groupSum5(int start, int[] nums, int target) {
 
 > _[codingbat](https://codingbat.com/prob/p138907)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

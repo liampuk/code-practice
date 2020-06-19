@@ -21,4 +21,4 @@ public String alarmClock(int day, boolean vacation) {
 
 > _[codingbat](http://codingbat.com/prob/p160543)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

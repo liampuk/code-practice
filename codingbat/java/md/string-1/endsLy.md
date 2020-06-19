@@ -18,4 +18,4 @@ public boolean endsLy(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p103895)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

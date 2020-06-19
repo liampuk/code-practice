@@ -26,4 +26,4 @@ public boolean sameStarChar(String str) {
 
 > _[codingbat](https://codingbat.com/prob/p194491)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

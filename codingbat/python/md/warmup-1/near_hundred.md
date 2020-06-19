@@ -17,4 +17,4 @@ def near_hundred(n):
 
 > _[codingbat](https://codingbat.com/prob/p124676)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

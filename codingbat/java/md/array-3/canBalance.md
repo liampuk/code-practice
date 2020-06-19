@@ -30,4 +30,4 @@ public boolean canBalance(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p158767)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

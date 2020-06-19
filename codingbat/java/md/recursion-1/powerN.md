@@ -18,4 +18,4 @@ public int powerN(int base, int n) {
 
 > _[codingbat](https://codingbat.com/prob/p158888)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -30,4 +30,4 @@ public int[] fix45(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p125819)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

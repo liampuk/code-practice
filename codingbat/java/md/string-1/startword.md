@@ -21,4 +21,4 @@ public String startWord(String str, String word) {
 
 > _[codingbat](http://codingbat.com/prob/p141494)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

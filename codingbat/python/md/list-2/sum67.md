@@ -28,4 +28,4 @@ def sum67(nums):
 
 > _[codingbat](https://codingbat.com/prob/p108886)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

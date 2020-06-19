@@ -24,4 +24,4 @@ def string_match(a, b):
 
 > _[codingbat](https://codingbat.com/prob/p182414)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

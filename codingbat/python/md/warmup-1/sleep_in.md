@@ -17,4 +17,4 @@ def sleep_in(weekday, vacation):
 
 > _[codingbat](https://codingbat.com/prob/p173401)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

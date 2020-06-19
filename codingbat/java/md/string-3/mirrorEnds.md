@@ -26,4 +26,4 @@ public String mirrorEnds(String string) {
 
 > _[codingbat](https://codingbat.com/prob/p139411)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

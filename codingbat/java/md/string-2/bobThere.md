@@ -23,4 +23,4 @@ public boolean bobThere(String str) {
 
 > _[codingbat](https://codingbat.com/prob/p175762)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

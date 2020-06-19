@@ -22,4 +22,4 @@ public int array11(int[] nums, int index) {
 
 > _[codingbat](https://codingbat.com/prob/p135988)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

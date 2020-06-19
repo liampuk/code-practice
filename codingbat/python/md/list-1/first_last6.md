@@ -17,4 +17,4 @@ def first_last6(nums):
 
 > _[codingbat](https://codingbat.com/prob/p181624)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

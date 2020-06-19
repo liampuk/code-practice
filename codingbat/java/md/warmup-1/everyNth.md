@@ -22,4 +22,4 @@ public String everyNth(String str, int n) {
 
 > _[codingbat](http://codingbat.com/prob/p196441)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

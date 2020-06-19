@@ -22,4 +22,4 @@ public Map<String, String> mapShare(Map<String, String> map) {
 
 > _[codingbat](https://codingbat.com/prob/p148813)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

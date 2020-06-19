@@ -22,4 +22,4 @@ public String repeatSeparator(String word, String sep, int count) {
 
 > _[codingbat](https://codingbat.com/prob/p109637)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -21,4 +21,4 @@ def double_char(str):
 
 > _[codingbat](https://codingbat.com/prob/p170842)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

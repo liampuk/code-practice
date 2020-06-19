@@ -21,4 +21,4 @@ def round_sum_helper(n):
 
 > _[codingbat](https://codingbat.com/prob/p179960)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

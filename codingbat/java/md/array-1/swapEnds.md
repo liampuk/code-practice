@@ -21,4 +21,4 @@ public int[] swapEnds(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p118044)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

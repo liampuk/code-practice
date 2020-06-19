@@ -27,4 +27,4 @@ public boolean containsZ(String s){
 
 > _[codingbat](https://codingbat.com/prob/p105671)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -18,4 +18,4 @@ public String nonStart(String a, String b) {
 
 > _[codingbat](http://codingbat.com/prob/p143825)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

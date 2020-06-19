@@ -17,4 +17,4 @@ def first_half(str):
 
 > _[codingbat](https://codingbat.com/prob/p107010)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

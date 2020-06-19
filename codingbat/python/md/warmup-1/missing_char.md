@@ -17,4 +17,4 @@ def missing_char(str, n):
 
 > _[codingbat](https://codingbat.com/prob/p149524)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

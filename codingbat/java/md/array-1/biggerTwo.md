@@ -18,4 +18,4 @@ public int[] biggerTwo(int[] a, int[] b) {
 
 > _[codingbat](http://codingbat.com/prob/p109537)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

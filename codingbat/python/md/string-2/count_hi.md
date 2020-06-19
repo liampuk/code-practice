@@ -23,4 +23,4 @@ def count_hi(str):
 
 > _[codingbat](https://codingbat.com/prob/p167246)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

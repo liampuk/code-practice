@@ -19,4 +19,4 @@ public boolean more20(int n) {
 > _[codingbat](http://codingbat.com/prob/p118290)_
 
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

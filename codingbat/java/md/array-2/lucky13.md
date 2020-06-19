@@ -23,4 +23,4 @@ public boolean lucky13(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p194525)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

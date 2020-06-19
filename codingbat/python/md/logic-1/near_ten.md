@@ -17,4 +17,4 @@ def near_ten(num):
 
 > _[codingbat](https://codingbat.com/prob/p165321)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

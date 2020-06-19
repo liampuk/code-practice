@@ -22,4 +22,4 @@ public String[] wordsWithout(String[] words, String target) {
 
 > _[codingbat](https://codingbat.com/prob/p121236)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

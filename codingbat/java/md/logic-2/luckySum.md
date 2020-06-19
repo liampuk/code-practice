@@ -25,4 +25,4 @@ public int luckySum(int a, int b, int c) {
 
 > _[codingbat](http://codingbat.com/prob/p130788)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

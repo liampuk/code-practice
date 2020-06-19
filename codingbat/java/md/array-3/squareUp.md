@@ -24,4 +24,4 @@ public int[] squareUp(int n) {
 
 > _[codingbat](https://codingbat.com/prob/p155405)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

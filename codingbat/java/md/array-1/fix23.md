@@ -24,4 +24,4 @@ public int[] fix23(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p120347)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

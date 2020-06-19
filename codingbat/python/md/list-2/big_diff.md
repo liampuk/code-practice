@@ -24,4 +24,4 @@ def big_diff(nums):
 
 > _[codingbat](https://codingbat.com/prob/p184853)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

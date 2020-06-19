@@ -17,4 +17,4 @@ def same_first_last(nums):
 
 > _[codingbat](https://codingbat.com/prob/p179078)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

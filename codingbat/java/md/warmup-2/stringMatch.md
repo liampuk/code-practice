@@ -24,4 +24,4 @@ public int stringMatch(String a, String b) {
 
 > _[codingbat](http://codingbat.com/prob/p198640)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

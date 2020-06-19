@@ -24,4 +24,4 @@ public int matchUp(int[] nums1, int[] nums2) {
 
 > _[codingbat](https://codingbat.com/prob/p136254)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -22,4 +22,4 @@ def fix_teen(n):
 
 > _[codingbat](https://codingbat.com/prob/p100347)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

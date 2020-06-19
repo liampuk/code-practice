@@ -18,4 +18,4 @@ public String makeOutWord(String out, String word) {
 
 > _[codingbat](http://codingbat.com/prob/p184030)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

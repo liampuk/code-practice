@@ -25,4 +25,4 @@ public int strDist(String str, String sub) {
 
 > _[codingbat](https://codingbat.com/prob/p195413)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

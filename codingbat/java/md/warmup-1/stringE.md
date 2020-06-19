@@ -24,4 +24,4 @@ public boolean stringE(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p173784)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

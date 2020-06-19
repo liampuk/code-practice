@@ -24,4 +24,4 @@ def count_code(str):
 
 > _[codingbat](https://codingbat.com/prob/p186048)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

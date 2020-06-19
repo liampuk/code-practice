@@ -21,4 +21,4 @@ def cigar_party(cigars, is_weekend):
 
 > _[codingbat](https://codingbat.com/prob/p195669)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

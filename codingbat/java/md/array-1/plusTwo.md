@@ -18,4 +18,4 @@ public int[] plusTwo(int[] a, int[] b) {
 
 > _[codingbat](http://codingbat.com/prob/p180840)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

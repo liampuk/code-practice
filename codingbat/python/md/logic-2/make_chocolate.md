@@ -20,4 +20,4 @@ def make_chocolate(small, big, goal):
 
 > _[codingbat](https://codingbat.com/prob/p190859)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

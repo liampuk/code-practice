@@ -18,4 +18,4 @@ public int withoutDoubles(int die1, int die2, boolean noDoubles) {
 
 > _[codingbat](http://codingbat.com/prob/p115233)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

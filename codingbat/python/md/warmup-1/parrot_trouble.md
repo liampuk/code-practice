@@ -17,4 +17,4 @@ def parrot_trouble(talking, hour):
 
 > _[codingbat](https://codingbat.com/prob/p166884)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -17,4 +17,4 @@ def love6(a, b):
 
 > _[codingbat](https://codingbat.com/prob/p100958)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

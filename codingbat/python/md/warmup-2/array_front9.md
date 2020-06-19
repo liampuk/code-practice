@@ -23,4 +23,4 @@ def array_front9(nums):
 
 > _[codingbat](https://codingbat.com/prob/p110166)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

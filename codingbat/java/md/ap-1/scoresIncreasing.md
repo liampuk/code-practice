@@ -25,4 +25,4 @@ public boolean scoresIncreasing(int[] scores) {
 
 > _[codingbat](https://codingbat.com/prob/p146974)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

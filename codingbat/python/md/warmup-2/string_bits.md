@@ -23,4 +23,4 @@ def string_bits(str):
 
 > _[codingbat](https://codingbat.com/prob/p113152)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

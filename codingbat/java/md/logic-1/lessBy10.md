@@ -18,4 +18,4 @@ public boolean lessBy10(int a, int b, int c) {
 
 > _[codingbat](http://codingbat.com/prob/p179196)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -22,4 +22,4 @@ public Map<String, Integer> word0(String[] strings) {
 
 > _[codingbat](https://codingbat.com/prob/p152303)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -36,4 +36,4 @@ public int maxMirror(int[] nums) {
 > _[codingbat](https://codingbat.com/prob/p196409)_
 
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

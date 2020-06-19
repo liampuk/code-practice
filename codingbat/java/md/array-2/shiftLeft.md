@@ -26,4 +26,4 @@ public int[] shiftLeft(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p105031)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -22,4 +22,4 @@ public int diff21(int n) {
 
 > _[codingbat](http://codingbat.com/prob/p116624)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

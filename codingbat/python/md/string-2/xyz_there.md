@@ -26,4 +26,4 @@ def xyz_there(str):
 
 > _[codingbat](https://codingbat.com/prob/p149391)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

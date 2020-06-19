@@ -18,4 +18,4 @@ public String firstTwo(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p163411)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -18,4 +18,4 @@ public String makeAbba(String a, String b) {
 
 > _[codingbat](http://codingbat.com/prob/p161056)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

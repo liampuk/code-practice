@@ -20,4 +20,4 @@ public boolean array220(int[] nums, int index) {
 
 > _[codingbat](https://codingbat.com/prob/p173469)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

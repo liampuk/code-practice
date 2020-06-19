@@ -20,4 +20,4 @@ public String allStar(String str) {
 
 > _[codingbat](https://codingbat.com/prob/p183394)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

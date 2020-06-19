@@ -22,4 +22,4 @@ public String changeXY(String str) {
 
 > _[codingbat](https://codingbat.com/prob/p101372)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

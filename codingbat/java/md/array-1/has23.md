@@ -18,4 +18,4 @@ public boolean has23(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p171022)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

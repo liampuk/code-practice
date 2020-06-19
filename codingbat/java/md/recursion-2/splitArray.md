@@ -25,4 +25,4 @@ public boolean sum(int start, int[] nums, int group1, int group2) {
 
 > _[codingbat](https://codingbat.com/prob/p185204)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

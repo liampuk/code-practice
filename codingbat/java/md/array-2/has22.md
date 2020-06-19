@@ -23,4 +23,4 @@ public boolean has22(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p121853)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

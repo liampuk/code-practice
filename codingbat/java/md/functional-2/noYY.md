@@ -20,4 +20,4 @@ public List<String> noYY(List<String> strings) {
 
 > _[codingbat](https://codingbat.com/prob/p115967)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

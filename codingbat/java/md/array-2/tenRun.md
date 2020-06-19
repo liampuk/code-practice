@@ -27,4 +27,4 @@ public int[] tenRun(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p199484)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

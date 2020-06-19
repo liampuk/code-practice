@@ -24,4 +24,4 @@ public int[] make2(int[] a, int[] b) {
 
 > _[codingbat](http://codingbat.com/prob/p143461)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

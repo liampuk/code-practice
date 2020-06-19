@@ -17,4 +17,4 @@ def make_abba(a, b):
 
 > _[codingbat](https://codingbat.com/prob/p182144)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

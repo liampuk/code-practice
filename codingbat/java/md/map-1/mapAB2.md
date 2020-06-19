@@ -22,4 +22,4 @@ public Map<String, String> mapAB2(Map<String, String> map) {
 
 > _[codingbat](https://codingbat.com/prob/p115011)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -23,4 +23,4 @@ public boolean only14(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p186672)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

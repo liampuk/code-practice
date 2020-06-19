@@ -18,4 +18,4 @@ public String withoutEnd(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p130896)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

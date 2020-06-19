@@ -18,4 +18,4 @@ public String firstHalf(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p172267)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

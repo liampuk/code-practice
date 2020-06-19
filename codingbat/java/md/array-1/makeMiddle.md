@@ -18,4 +18,4 @@ public int[] makeMiddle(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p199519)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

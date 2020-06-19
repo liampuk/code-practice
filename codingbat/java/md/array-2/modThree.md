@@ -24,4 +24,4 @@ public boolean modThree(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p159979)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

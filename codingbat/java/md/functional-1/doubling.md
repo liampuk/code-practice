@@ -19,4 +19,4 @@ public List<Integer> doubling(List<Integer> nums) {
 
 > _[codingbat](https://codingbat.com/prob/p117665)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

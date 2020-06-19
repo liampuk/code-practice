@@ -18,4 +18,4 @@ public boolean commonEnd(int[] a, int[] b) {
 
 > _[codingbat](http://codingbat.com/prob/p191991)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -21,4 +21,4 @@ def lone_sum(a, b, c):
 
 > _[codingbat](https://codingbat.com/prob/p143951)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

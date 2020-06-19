@@ -23,4 +23,4 @@ public String endX(String str) {
 
 > _[codingbat](https://codingbat.com/prob/p105722)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

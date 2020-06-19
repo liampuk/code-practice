@@ -17,4 +17,4 @@ def extra_end(str):
 
 > _[codingbat](https://codingbat.com/prob/p148853)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

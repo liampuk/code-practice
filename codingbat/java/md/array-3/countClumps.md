@@ -32,4 +32,4 @@ public int countClumps(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p193817)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

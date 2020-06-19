@@ -22,4 +22,4 @@ public String stringBits(String str) {
 
 >  _[codingbat](http://codingbat.com/prob/p165666)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

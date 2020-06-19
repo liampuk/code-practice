@@ -19,4 +19,4 @@ public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
 
 > _[codingbat](http://codingbat.com/prob/p181646)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -23,4 +23,4 @@ def count_evens(nums):
 
 > _[codingbat](https://codingbat.com/prob/p189616)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

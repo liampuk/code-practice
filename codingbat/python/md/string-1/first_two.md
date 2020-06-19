@@ -18,4 +18,4 @@ def first_two(str):
 
 > _[codingbat](https://codingbat.com/prob/p184816)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -18,4 +18,4 @@ def squirrel_play(temp, is_summer):
 
 > _[codingbat](https://codingbat.com/prob/p135815)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

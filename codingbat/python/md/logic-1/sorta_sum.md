@@ -17,4 +17,4 @@ def sorta_sum(a, b):
 
 > _[codingbat](https://codingbat.com/prob/p116620)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

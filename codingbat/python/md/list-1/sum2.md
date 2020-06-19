@@ -24,4 +24,4 @@ def sum2(nums):
 
 > _[codingbat](https://codingbat.com/prob/p192589)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

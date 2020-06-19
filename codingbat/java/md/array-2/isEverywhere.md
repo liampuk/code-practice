@@ -23,4 +23,4 @@ public boolean isEverywhere(int[] nums, int val) {
 
 > _[codingbat](https://codingbat.com/prob/p110222)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

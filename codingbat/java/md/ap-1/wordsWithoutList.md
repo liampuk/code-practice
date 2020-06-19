@@ -24,4 +24,4 @@ public List wordsWithoutList(String[] words, int len) {
 
 > _[codingbat](https://codingbat.com/prob/p183407)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

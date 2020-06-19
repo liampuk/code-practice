@@ -17,4 +17,4 @@ def make_out_word(out, word):
 
 > _[codingbat](https://codingbat.com/prob/p129981)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

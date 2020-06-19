@@ -18,4 +18,4 @@ public boolean answerCell(boolean isMorning, boolean isMom, boolean isAsleep) {
 
 > _[codingbat](http://codingbat.com/prob/p110973)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

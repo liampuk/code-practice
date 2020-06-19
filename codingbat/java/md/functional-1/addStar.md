@@ -19,4 +19,4 @@ public List<String> addStar(List<String> strings) {
 
 > _[codingbat](https://codingbat.com/prob/p170181)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -18,4 +18,4 @@ public int start1(int[] a, int[] b) {
 
 > _[codingbat](http://codingbat.com/prob/p109660)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

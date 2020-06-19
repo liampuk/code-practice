@@ -26,4 +26,4 @@ public boolean endOther(String a, String b) {
 
 > _[codingbat](http://codingbat.com/prob/p126880)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

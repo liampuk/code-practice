@@ -18,4 +18,4 @@ public int[] midThree(int[] nums) {
 
 > _[codingbat](http://codingbat.com/prob/p155713)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

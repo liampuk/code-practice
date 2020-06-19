@@ -20,4 +20,4 @@ public String front3(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p136351)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

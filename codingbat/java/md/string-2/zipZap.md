@@ -23,4 +23,4 @@ public String zipZap(String str) {
 
 > _[codingbat](https://codingbat.com/prob/p180759)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

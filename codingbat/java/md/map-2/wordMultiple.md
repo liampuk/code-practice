@@ -26,4 +26,4 @@ public Map<String, Boolean> wordMultiple(String[] strings) {
 
 > _[codingbat](https://codingbat.com/prob/p190862)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

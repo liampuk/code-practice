@@ -23,4 +23,4 @@ public int close10(int a, int b) {
 
 > _[codingbat](http://codingbat.com/prob/p172021)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

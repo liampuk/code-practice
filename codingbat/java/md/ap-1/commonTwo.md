@@ -31,4 +31,4 @@ public int commonTwo(String[] a, String[] b) {
 
 > _[codingbat](https://codingbat.com/prob/p100369)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

@@ -18,4 +18,4 @@ public int fibonacci(int n) {
 
 > _[codingbat](https://codingbat.com/prob/p120015)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

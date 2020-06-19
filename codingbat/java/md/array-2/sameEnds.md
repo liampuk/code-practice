@@ -23,4 +23,4 @@ public boolean sameEnds(int[] nums, int len) {
 
 > _[codingbat](https://codingbat.com/prob/p134300)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

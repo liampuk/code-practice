@@ -18,4 +18,4 @@ public int teaParty(int tea, int candy) {
 
 > _[codingbat](http://codingbat.com/prob/p177181)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

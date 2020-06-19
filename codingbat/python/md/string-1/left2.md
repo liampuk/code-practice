@@ -17,4 +17,4 @@ def left2(str):
 
 > _[codingbat](https://codingbat.com/prob/p160545)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

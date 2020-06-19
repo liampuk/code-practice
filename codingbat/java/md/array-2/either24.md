@@ -24,4 +24,4 @@ public boolean either24(int[] nums) {
 
 > _[codingbat](https://codingbat.com/prob/p191878)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)

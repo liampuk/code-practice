@@ -22,4 +22,4 @@ public String notString(String str) {
 
 > _[codingbat](http://codingbat.com/prob/p191914)_
 
-> [< _back to readme_](FINDREPLACEREADME)
+> [< _back to readme_](/README.md)
