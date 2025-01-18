@@ -1,0 +1,19 @@
+{
+  "name": "leetcode",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "generate": "bun run scripts/generate.ts",
+    "test": "bun test practice --watch"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^22.10.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
